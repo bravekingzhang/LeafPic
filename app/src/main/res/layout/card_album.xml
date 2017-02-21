@@ -26,7 +26,7 @@
                 android:layout_centerVertical="true"
                 android:layout_gravity="center"
                 android:elevation="10dp"
-                android:visibility="gone"
+                android:visibility="visible"
                 app:iiv_color="@color/md_white_1000"
                 app:iiv_icon="gmd-check"
                 tools:targetApi="lollipop" />
